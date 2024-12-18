@@ -6,11 +6,11 @@
 #### Lecture assignment: permutation_test
 #### Questions: #lecture_12_questions
 
-**Learning objectives.** After the lecture you shoud be able to
+**Learning objectives.** After the lecture you should be able to
 
 - Explain foundations of statistical hypothesis testing.
 
-- Reason about multiple comparison problem.
+- Reason about multiple comparisons problem.
 
 - Use Bootstrap Resampling and Permutation Tests to compare machine learning models.
 
